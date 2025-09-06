@@ -1,4 +1,4 @@
-[![sywan141](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/wansuyu)
+[![sywan141](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/sywan141)
 
 I'm currently pursuing a Master's degree in Astronomy at the School of Astronomy and Space science, Nanjing University, China.
 
