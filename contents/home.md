@@ -6,6 +6,7 @@ I'm currently pursuing a Master's degree in Astronomy at the School of Astronomy
 <code>sywan2002@smail.nju.edu.cn</code>
 
 #### Education  
+**Xuzhou No.1 Middle School**, 2017 - 2020
 **Nanjing University**, Bachelor of Astronomy (2020 – 2024)  
 
 
