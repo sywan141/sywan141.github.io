@@ -1,20 +1,13 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![sywan141](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/wansuyu)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Master's degree in Astronomy at the School of Astronomy and Space science, Nanjing University, China.
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+#### Email
+<code>sywan2002@smail.nju.edu.cn</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Nanjing University**, Bachelor of Astronomy (2020 – 2024)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+High-energy astrophysical phenomenon, Particle acceleration mechanism, Application of machine learning in Astrophysics.
